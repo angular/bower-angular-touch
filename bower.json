@@ -1,8 +1,8 @@
 {
   "name": "angular-touch",
-  "version": "1.2.11-build.2203+sha.8205158",
+  "version": "1.2.11-build.2204+sha.8205158",
   "main": "./angular-touch.js",
   "dependencies": {
-    "angular": "1.2.11-build.2203+sha.8205158"
+    "angular": "1.2.11-build.2204+sha.8205158"
   }
 }
