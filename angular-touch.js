@@ -1,5 +1,5 @@
 /**
- * @license AngularJS v1.2.14-build.2276+sha.12e4d3a
+ * @license AngularJS v1.2.14-build.2277+sha.481508d
  * (c) 2010-2014 Google, Inc. http://angularjs.org
  * License: MIT
  */
@@ -13,7 +13,7 @@
  * # ngTouch
  *
  * The `ngTouch` module provides touch events and other helpers for touch-enabled devices.
- * The implementation is based on jQuery Mobile touch event handling 
+ * The implementation is based on jQuery Mobile touch event handling
  * ([jquerymobile.com](http://jquerymobile.com/)).
  *
  * {@installModule touch}
