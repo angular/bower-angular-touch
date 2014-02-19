@@ -1,5 +1,5 @@
 /**
- * @license AngularJS v1.2.14-build.2288+sha.9ca685b
+ * @license AngularJS v1.2.14-build.2289+sha.cc1f753
  * (c) 2010-2014 Google, Inc. http://angularjs.org
  * License: MIT
  */
@@ -16,7 +16,6 @@
  * The implementation is based on jQuery Mobile touch event handling
  * ([jquerymobile.com](http://jquerymobile.com/)).
  *
- * {@installModule touch}
  *
  * See {@link ngTouch.$swipe `$swipe`} for usage.
  *
