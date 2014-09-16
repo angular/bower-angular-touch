@@ -1,8 +1,8 @@
 {
   "name": "angular-touch",
-  "version": "1.2.25-build.455+sha.d89d59f",
+  "version": "1.2.25-build.456+sha.06c7669",
   "main": "./angular-touch.js",
   "dependencies": {
-    "angular": "1.2.25-build.455+sha.d89d59f"
+    "angular": "1.2.25-build.456+sha.06c7669"
   }
 }
