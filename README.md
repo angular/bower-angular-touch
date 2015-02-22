@@ -14,20 +14,11 @@ You can install this package either with `npm` or with `bower`.
 npm install angular-touch
 ```
 
-Add a `<script>` to your `index.html`:
-
-```html
-<script src="/node_modules/angular-touch/angular-touch.js"></script>
-```
-
 Then add `ngTouch` as a dependency for your app:
 
 ```javascript
-angular.module('myApp', ['ngTouch']);
+angular.module('myApp', [require('angular-touch')]);
 ```
-
-Note that this package is not in CommonJS format, so doing `require('angular-touch')` will
-return `undefined`.
 
 ### bower
 
