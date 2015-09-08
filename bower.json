@@ -1,9 +1,9 @@
 {
   "name": "angular-touch",
-  "version": "1.4.6-build.4219+sha.159bbf1",
+  "version": "1.4.6-build.4223+sha.80a2176",
   "main": "./angular-touch.js",
   "ignore": [],
   "dependencies": {
-    "angular": "1.4.6-build.4219+sha.159bbf1"
+    "angular": "1.4.6-build.4223+sha.80a2176"
   }
 }
