@@ -1,6 +1,6 @@
 {
   "name": "angular-touch",
-  "version": "1.5.0-build.4280+sha.e732f8e",
+  "version": "1.5.0-build.4281+sha.aafbd94",
   "description": "AngularJS module for touch events and helpers for touch-enabled devices",
   "main": "index.js",
   "scripts": {
