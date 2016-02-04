@@ -1,10 +1,10 @@
 {
   "name": "angular-touch",
-  "version": "1.5.0-rc.2",
+  "version": "1.5.0-build.4589+sha.260cfe6",
   "license": "MIT",
   "main": "./angular-touch.js",
   "ignore": [],
   "dependencies": {
-    "angular": "1.5.0-rc.2"
+    "angular": "1.5.0-build.4589+sha.260cfe6"
   }
 }
