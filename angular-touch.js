@@ -1,5 +1,5 @@
 /**
- * @license AngularJS v1.5.3
+ * @license AngularJS v1.5.4-build.4699+sha.bd7d5f6
  * (c) 2010-2016 Google, Inc. http://angularjs.org
  * License: MIT
  */
@@ -472,7 +472,7 @@ var ngTouchClickDirectiveFactory = ['$parse', '$timeout', '$rootElement',
     $timeout(function() {
       // Remove the allowable region.
       for (var i = 0; i < touchCoordinates.length; i += 2) {
-        if (touchCoordinates[i] == x && touchCoordinates[i + 1] == y) {
+        if (touchCoordinates[i] === x && touchCoordinates[i + 1] === y) {
           touchCoordinates.splice(i, i + 2);
           return;
         }
@@ -512,7 +512,7 @@ var ngTouchClickDirectiveFactory = ['$parse', '$timeout', '$rootElement',
       tapping = true;
       tapElement = event.target ? event.target : event.srcElement; // IE uses srcElement.
       // Hack for Safari, which can target text nodes instead of containers.
-      if (tapElement.nodeType == 3) {
+      if (tapElement.nodeType === 3) {
         tapElement = tapElement.parentNode;
       }
 
