@@ -1,10 +1,10 @@
 {
   "name": "angular-touch",
-  "version": "1.5.7-build.4877+sha.8cd9848",
+  "version": "1.5.7-build.4880+sha.915e7a1",
   "license": "MIT",
   "main": "./angular-touch.js",
   "ignore": [],
   "dependencies": {
-    "angular": "1.5.7-build.4877+sha.8cd9848"
+    "angular": "1.5.7-build.4880+sha.915e7a1"
   }
 }
