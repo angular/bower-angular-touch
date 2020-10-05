@@ -1,6 +1,6 @@
 /**
- * @license AngularJS v1.8.0
- * (c) 2010-2020 Google, Inc. http://angularjs.org
+ * @license AngularJS v1.8.1
+ * (c) 2010-2020 Google LLC. http://angularjs.org
  * License: MIT
  */
 (function(window, angular) {'use strict';
@@ -29,7 +29,7 @@
 /* global ngTouch */
 var ngTouch = angular.module('ngTouch', []);
 
-ngTouch.info({ angularVersion: '1.8.0' });
+ngTouch.info({ angularVersion: '1.8.1' });
 
 function nodeName_(element) {
   return angular.$$lowercase(element.nodeName || (element[0] && element[0].nodeName));
